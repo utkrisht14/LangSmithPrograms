@@ -8,4 +8,5 @@ dependencies = [
     "langchain>=1.4.7",
     "langchain-openai>=1.7.2",
     "langsmith>=0.14.12",
+    "scikit-learn>=1.9.1",
 ]
